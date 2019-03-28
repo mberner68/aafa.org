@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /Account/*.*
+Disallow: /search
+Disallow: /search.aspx
+Disallow: /error404.aspx
+Disallow: /archive
+Disallow: /archive.aspx
+
+sitemap:http://www.aafa.org/sitemap.axd
